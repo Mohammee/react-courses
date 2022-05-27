@@ -1,4 +1,4 @@
-const Users = [
+[
 {
     "userId": 1,
     "id": "1",
